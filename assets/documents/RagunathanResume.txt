@@ -1,0 +1,37 @@
+RAGUNATHAN M
++91 9994763414 | raghunathan731@gmail.com | https://www.linkedin.com/in/ragunathan-m
+
+Work Experience (6 Years)
+
+PayU, Chennai	Jul 2022 - Present
+Senior Software Engineer
+Collaborated with Visa, MasterCard, Amex, and NPCI to integrate new EMVCo version upgrades into our platform by developing and deploying critical code changes. Led end-to-end certification processes, ensuring compliance and improving transaction success rates for 40+ banks processing 2M+ daily transactions.
+Developed and integrated an EMI option within the authentication page, enabling seamless EMI issuance, the solution was well-received and appreciated by top management.
+Improved fraud detection by implementing device ID tracking, reducing fraud.
+Coordinated performance improvements across modules, identifying and fixing key bottlenecks.
+Enhanced application performance by fixing 20+ critical deadlocks in 4+ databases, cutting response times by 30%.
+Redesigned the core authentication engine to handle 5M+ daily transactions during peak sales periods.
+Designed and optimized 150+ database calls to improve performance and reduce query latency.
+Developed a lean service model, resolving 100+ bugs and refactoring 50+ methods, reducing support cost.
+Integrated SSO, LDAP, and 2FA authentication, reducing login steps and improving security while decreasing login times by 40%.
+Improved UI performance by optimizing front-end code, reducing the size of assets (images, scripts, and stylesheets), and implementing lazy loading for non-essential components.
+Led a team of 3+ developers in a successful codebase migration, increasing system efficiency by 20% while managing 1.5M+ daily transactions.
+Ensured software reliability through 200+ unit tests, reducing production bugs by 30%.
+Automated scripts, increasing project efficiency and improving scalability.
+Conducted code reviews and provided relevant feedback to support robust code quality, compliance to best practices, and continuous improvement.
+I was hands-on in addressing customer support tickets and fielding queries from other internal service teams.
+Developed across SDLC and CI/ CD pipeline.
+Financial Software and Systems, Chennai	Jul 2019 – Jul 2022
+Software Engineer
+Proficient in e-commerce payment architecture, leveraging ACS V1.1.0 and 3D Secure to deliver secure, efficient, and user-friendly transaction experiences.
+Skilled in end-to-end e-commerce payment flows, optimizing security, UX, and transaction efficiency.
+Demonstrated success in improving payment processing systems, leading to enhanced system performance, reduced latency, and superior user outcomes.
+Skills
+Core Skills: Java, JavaScript, Data Structure & Algorithms, System Design
+Frameworks & Libraries: Spring Boot, Spring cloud, Vert.X [Reactive Framework], React JS,  JUnit
+Technologies: Microservices, Apache Kafka, Redis cache, Oracle DB
+Tools & Platforms: Jenkins, Maven, Gradle, NPM, Nginx, Grafana, Linux, Git
+Education 
+
+K Ramakrishnan College of Engineering- Anna University				   Jun 2016 - Apr 2019
+Bachelor of Engineering in Electronics and Communications Engineering		
