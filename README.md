@@ -167,7 +167,7 @@ The website uses CSS custom properties for easy theming. Main colors are defined
 ## 📞 Contact Information
 
 - **Email**: raghunathan731@gmail.com
-- **Phone**: +91 9994763414
+- **Phone**: +91 999XXXX414
 - **LinkedIn**: [linkedin.com/in/ragunathan-m](https://www.linkedin.com/in/ragunathan-m)
 
 ## 🤝 Contributing
